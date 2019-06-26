@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/home/moha/Documents/tech_stack/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
+        "source": "/root/.android/build-cache/72f17acd5399b9e043576a56efa6da5e46413794/output/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/home/moha/Documents/tech_stack/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/root/.android/build-cache/3eb7f05f2144fe1ccc425a3dd06170b49c25dee0/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/moha/Documents/tech_stack/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/root/.android/build-cache/3eb7f05f2144fe1ccc425a3dd06170b49c25dee0/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/moha/Documents/tech_stack/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/root/.android/build-cache/3eb7f05f2144fe1ccc425a3dd06170b49c25dee0/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/moha/Documents/tech_stack/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/root/.android/build-cache/3eb7f05f2144fe1ccc425a3dd06170b49c25dee0/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/moha/Documents/tech_stack/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/root/.android/build-cache/3eb7f05f2144fe1ccc425a3dd06170b49c25dee0/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/moha/Documents/tech_stack/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/root/.android/build-cache/3eb7f05f2144fe1ccc425a3dd06170b49c25dee0/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/moha/Documents/tech_stack/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/root/.android/build-cache/3eb7f05f2144fe1ccc425a3dd06170b49c25dee0/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/moha/Documents/tech_stack/android/app/build/intermediates/res/merged/debug/anim/tooltip_exit.xml",
+        "source": "/root/.android/build-cache/3eb7f05f2144fe1ccc425a3dd06170b49c25dee0/output/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/home/moha/Documents/tech_stack/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/root/.android/build-cache/3eb7f05f2144fe1ccc425a3dd06170b49c25dee0/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/moha/Documents/tech_stack/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
+        "source": "/root/.android/build-cache/72f17acd5399b9e043576a56efa6da5e46413794/output/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/home/moha/Documents/tech_stack/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
+        "source": "/root/.android/build-cache/72f17acd5399b9e043576a56efa6da5e46413794/output/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/home/moha/Documents/tech_stack/android/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
+        "source": "/root/.android/build-cache/3eb7f05f2144fe1ccc425a3dd06170b49c25dee0/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/home/moha/Documents/tech_stack/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/root/.android/build-cache/3eb7f05f2144fe1ccc425a3dd06170b49c25dee0/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/moha/Documents/tech_stack/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/root/.android/build-cache/72f17acd5399b9e043576a56efa6da5e46413794/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/home/moha/Documents/tech_stack/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
+        "source": "/root/.android/build-cache/72f17acd5399b9e043576a56efa6da5e46413794/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/home/moha/Documents/tech_stack/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/root/.android/build-cache/3eb7f05f2144fe1ccc425a3dd06170b49c25dee0/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/moha/Documents/tech_stack/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/root/.android/build-cache/72f17acd5399b9e043576a56efa6da5e46413794/output/res/anim/catalyst_push_up_in.xml"
+    }
+]

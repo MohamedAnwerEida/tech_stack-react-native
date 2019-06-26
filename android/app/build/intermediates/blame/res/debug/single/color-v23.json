@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/moha/Documents/tech_stack/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/root/.android/build-cache/3eb7f05f2144fe1ccc425a3dd06170b49c25dee0/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/moha/Documents/tech_stack/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/root/.android/build-cache/3eb7f05f2144fe1ccc425a3dd06170b49c25dee0/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/moha/Documents/tech_stack/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/root/.android/build-cache/3eb7f05f2144fe1ccc425a3dd06170b49c25dee0/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/moha/Documents/tech_stack/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/root/.android/build-cache/3eb7f05f2144fe1ccc425a3dd06170b49c25dee0/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/moha/Documents/tech_stack/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/root/.android/build-cache/3eb7f05f2144fe1ccc425a3dd06170b49c25dee0/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/moha/Documents/tech_stack/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/root/.android/build-cache/3eb7f05f2144fe1ccc425a3dd06170b49c25dee0/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/moha/Documents/tech_stack/android/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/root/.android/build-cache/3eb7f05f2144fe1ccc425a3dd06170b49c25dee0/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/moha/Documents/tech_stack/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/root/.android/build-cache/3eb7f05f2144fe1ccc425a3dd06170b49c25dee0/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/moha/Documents/tech_stack/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/root/.android/build-cache/3eb7f05f2144fe1ccc425a3dd06170b49c25dee0/output/res/color-v23/abc_tint_btn_checkable.xml"
+    }
+]

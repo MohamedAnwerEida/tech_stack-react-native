@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/moha/Documents/tech_stack/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/moha/Documents/tech_stack/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/moha/Documents/tech_stack/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/home/moha/Documents/tech_stack/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    }
+]
